@@ -1,4 +1,6 @@
-Attribute VB_Name = "NewMacros"
+// Code could use comments to identify purpose, and could also have details on your name 
+
+Attribute VB_Name = "NewMacros
 Sub GrammarMacro()
 ' GrammarMacro Macro
 With Selection.Find
